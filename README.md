@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Elvin27
 - 👀 I’m interested in coding and calisthenics.
-- 🌱 I’m currently learning how to code.
+- 🌱 I’m costantly learning new things.
 - I program in C++ and Python basics.
+- Web developer in HTML, CSS and JavaScript.
+- Made a Chrome Extension you can already use...Kristal Definitions🔮
